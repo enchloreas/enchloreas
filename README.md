@@ -18,7 +18,6 @@ Outside of tech, I’m into **fashion**, **drumming**, **UX**, and **indie game 
 ## 🎮 Currently Exploring
 
 - Testing workflows, automation and AI tools
-- Performance profiling for games (PIX, Razor)
 - Combining UX design with QA practices
 - Launching creative side projects that blend tech + art
 
