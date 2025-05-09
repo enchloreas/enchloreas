@@ -7,9 +7,9 @@ Outside of tech, I’m into **fashion**, **drumming**, **UX**, and **indie game 
 
 ## 🔧 Tech & Tools I Work With
 
-- **Languages:** Python, C#, JavaScript
+- **Languages:** Python, JavaScript
 - **Testing:** Playwright, Robot Framework, Postman, Pytest, Android studio, Appium
-- **UX & Design:** Figma, Adobe XD, accessibility standards (WCAG)
+- **UX & Design:** Figma, Adobe, accessibility standards (WCAG)
 - **Game Dev:** Unreal Engine (beginner), Blender (beginner)
 - **CI/CD & DevOps:** GitHub Actions, Docker (basics), Jenkins
 
