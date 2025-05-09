@@ -1,7 +1,7 @@
 # Hi there, I’m Alissa 👋
 
 I'm a **Software Test Engineer** who loves breaking things to make them better.  
-Outside of tech, I’m into **fashion**, **drumming**, **UX**, and **indie game development**.
+Outside of tech, I’m into **fashion**, **drumming**, **UX**, and **game development**.
 
 ---
 
